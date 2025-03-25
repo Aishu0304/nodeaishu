@@ -1,0 +1,31 @@
+aishuvenkat0304
+qVtmUowmo5eNlUzo
+mongodb+srv://aishuvenkat0304:<db_password>@cluster0.i9kxk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+ "_id": "67dd7ed6e513d60e191bc6eb",
+        "name": "John Doe",
+        "email": "john@example.com",
+        "age": 25,
+        "__v": 0
+    },
+    {
+        "_id": "67dd7f22e513d60e191bc6ed",
+        "name": "Aishu",
+        "email": "aishuvenkat@gmail.com",
+        "age": 21,
+        "__v": 0
+    },
+    {
+        "_id": "67dd7f37e513d60e191bc6ef",
+        "name": "Harini",
+        "email": "harinivenkat@gmail.com",
+        "age": 25,
+        "__v": 0
+    },
+    {
+        "_id": "67dd7f47e513d60e191bc6f1",
+        "name": "rama",
+        "email": "ramavenkat@gmail.com",
+        "age": 25,
+        "__v": 0
+    }
+]
